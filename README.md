@@ -1,12 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=500&color=045057&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Bruno+Nyland!;Oi!+Meu+nome+%C3%A9+Bruno+Nyland!)](https://git.io/typing-svg)
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=250&section=header&text=Bruno%20Nyland&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack&descAlignY=50">
 
 <div align="center">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunonyland&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonyland&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117">
 </div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=3000&color=A10000&lines=Hello!+My+name+is+Bruno+Nyland!+;Oi!+Meu+nome+%C3%A9+Bruno+Nyland!" alt="Typing SVG" /></a>
 
 <hr>
 
