@@ -7,8 +7,8 @@
 
 <hr>
 
-<div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=3000&color=A1A1A1&lines=Languages+and+tools;Linguagens+e+ferramentas" alt="Typing SVG" /></a>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=3000&center=true&color=A1A1A1&lines=Languages+and+tools;Linguagens+e+ferramentas" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
