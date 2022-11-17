@@ -1,7 +1,8 @@
+
 <img width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=250&section=header&text=Bruno%20Nyland&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack&descAlignY=50" />
 
-<div align="center">
+<div align="center" style="display: inline_block">
     <img height="165em"
         src="https://github-readme-stats.vercel.app/api?username=brunonyland&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117" />
     <img height="165em"
