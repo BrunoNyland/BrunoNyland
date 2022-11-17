@@ -1,3 +1,8 @@
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=250&section=header&text=Bruno%20Nyland&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack&descAlignY=50">
 
 <div align="center">
