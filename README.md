@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=3000&color=A10000&lines=Hello!+My+name+is+Bruno+Nyland!+;Oi!+Meu+nome+%C3%A9+Bruno+Nyland!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=3000&color=A1A1A1&lines=Hello!+My+name+is+Bruno+Nyland!+;Oi!+Meu+nome+%C3%A9+Bruno+Nyland!" alt="Typing SVG" /></a>
 </div>
 
 <hr>
