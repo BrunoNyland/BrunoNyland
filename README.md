@@ -1,7 +1,5 @@
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=500&color=045057&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Bruno+Nyland!;Oi!+Meu+nome+%C3%A9+Bruno+Nyland!)](https://git.io/typing-svg)
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=250&section=header&text=Bruno%20Nyland&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack&descAlignY=50">
 
