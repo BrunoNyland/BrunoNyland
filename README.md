@@ -5,7 +5,9 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonyland&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117">
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=3000&color=A10000&lines=Hello!+My+name+is+Bruno+Nyland!+;Oi!+Meu+nome+%C3%A9+Bruno+Nyland!" alt="Typing SVG" /></a>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=3000&pause=3000&color=A10000&lines=Hello!+My+name+is+Bruno+Nyland!+;Oi!+Meu+nome+%C3%A9+Bruno+Nyland!" alt="Typing SVG" /></a>
+</div>
 
 <hr>
 
