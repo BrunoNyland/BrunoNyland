@@ -24,13 +24,11 @@
 
 <div align="center">
     <a style="text-decoration: none;" href="https://web.whatsapp.com/send/?phone=%2B5567996640325&text&type=phone_number&app_absent=0" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-whatsapp-%100?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
     <a href="" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
     <a href="" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
     <a href="" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <hr>
+
 ![Snake animation](https://github.com/brunonyland/brunonyland/blob/output/github-contribution-grid-snake.svg)
