@@ -1,5 +1,12 @@
 <!-- ====================== HEADER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=260&section=header&text=Bruno%20Nyland&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%7C%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:ff0000,100:0000ff&height=260&section=header&text=Bruno%20Nyland&fontSize=58&fontColor=ffffff&animation=fadeIn&rotate=11&fontAlignY=42&fontAlignX=62&desc=Desenvolvedor%20Full%20Stack%20%7C%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descSize=18&descAlignY=62&descAlignX=62" alt="header"/>
+
+<!-- ====================== SITE ====================== -->
+<div align="center">
+  <a href="https://brunonyland.com" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Acesse%20meu%20site-brunonyland.com-2E9EF7?style=for-the-badge&labelColor=0D1117" alt="site"/>
+  </a>
+</div>
 
 <!-- ====================== TYPING SVG ====================== -->
 <div align="center">
@@ -26,7 +33,7 @@ class BrunoNyland:
     def __init__(self):
         self.nome      = "Bruno Nyland"
         self.funcao    = "Desenvolvedor Full Stack"
-        self.linguagens = ["Python", "JavaScript", "TypeScript", "SQL"]
+        self.linguagens = ["Python", "JavaScript", "TypeScript", "C#", "C++", "SQL"]
         self.foco      = ["Back-end robusto", "Front-end moderno", "APIs escaláveis"]
         self.cafe      = "☕ → 💻 → 🚀"
 
@@ -50,13 +57,17 @@ class BrunoNyland:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Bibliotecas
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Banco de Dados & Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
