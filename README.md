@@ -95,15 +95,6 @@ class BrunoNyland:
 
 <br/>
 
-<!-- ====================== TROFÉUS ====================== -->
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brunonyland&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
-<br/>
-
 <!-- ====================== GRÁFICO DE ATIVIDADE ====================== -->
 ## 📈 Gráfico de Atividade
 
