@@ -1,5 +1,5 @@
-<!-- ====================== HEADER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:ff0000,100:0000ff&height=260&section=header&text=Bruno%20Nyland&fontSize=58&fontColor=ffffff&animation=fadeIn&rotate=11&fontAlignY=42&fontAlignX=62&desc=Desenvolvedor%20Full%20Stack%20%7C%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descSize=18&descAlignY=62&descAlignX=62" alt="header"/>
+<!-- ====================== HEADER (SVG próprio, hospedado no repositório) ====================== -->
+<img width="100%" src="./assets/header.svg" alt="Bruno Nyland - Desenvolvedor Full Stack"/>
 
 <!-- ====================== SITE ====================== -->
 <div align="center">
